@@ -1,3 +1,7 @@
+#Mapa utilizado para destacar os países que estão numa lista CSV
+#Desenvolvi para facilitar a apresentação visual dos países afetados por determinado ataque cibernético
+#Version 1, 18 July 2025
+
 import pandas as pd
 import geopandas as gpd
 import folium
